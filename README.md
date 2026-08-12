@@ -1,5 +1,7 @@
-Task 6.1 
+_Task 6.1 _
+
 **Build and Train a Simple ANN Model**
+
 Nimal has started his own mobile company in Sri Lanka. He wants to be a challenge to  big companies like Apple, Samsung, etc. However, he does not know how to estimate the price of mobile phones that his company creates. In this competitive mobile phone market, you cannot simply assume things. To solve this problem, he has collected sales data for  mobile phones of various companies. Nimal wants to find a relationship between the features of a mobile phone (eg:- RAM, internal memory, etc.) and its selling price. As he is not very good at machine learning, he needs your help to solve this problem.
 
 You are given a csv file as the dataset, and it contains the necessary attributes to evaluate the price range. Here are the  2 price ranges:  high(1) and low(0).
@@ -16,8 +18,10 @@ Steps
 8.Save the weights file.
 
 
-Task 6.2
+_Task 6.2_
+
 **Sentiment Analysis using NLP**
+
 Sentiment analysis is one of the popular downstream applications of Natural Language Processing, which determines the sentiment expressed in a piece of text. The sentiment expressed in a text is usually classified as positive or negative or neutral. You are expected to train a machine learning model to predict the sentiment of Tweets posted about US Airlines.  
 
 Step 1 – Load the Dataset
